@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GestionMaster/GestionMaster.vcxproj" Id="2df86fcc-e0d1-41cc-8f8e-f97f20f3ae12" />
+</Solution>

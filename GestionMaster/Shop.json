@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Maison",
+		"description": "Maison de base, pas de bonus",
+		"cost": 100,
+		"revenue": "10/heure",
+		"number": 1
+	},
+	{
+		"name": "Restaurant",
+		"description": "Restaurant, bonus de 5/heure",
+		"cost": 500,
+		"revenue": "15/heure",
+		"number": 2
+	},
+	{
+		"name": "Bar",
+		"description": "Bar, bonus de 10/heure",
+		"cost": 1000,
+		"revenue": "20/heure",
+		"number": 3
+	},
+	{
+		"name": "terre",
+		"description": "terre, augmente la zone de travail",
+		"cost": 200,
+		"revenue": "5/heure",
+		"number": 4
+	}
+]

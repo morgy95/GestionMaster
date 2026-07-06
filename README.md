@@ -1,6 +1,6 @@
 # GestionMaster 🎮
 
-**GestionMaster** est un moteur et un système de gestion de jeu 2D en vue isométrique développé en **C++** avec la bibliothèque **SFML**. Ce projet met en œuvre des concepts avancés de programmation logicielle et de rendu graphique pour créer un environnement de jeu fluide, structuré et performant.
+**GestionMaster** est un moteur et un système de gestion de jeu 2D développé en **C++** avec la bibliothèque **SFML**. Ce projet met en œuvre des concepts avancés de programmation logicielle et de rendu graphique pour créer un environnement de jeu fluide, structuré et performant.
 
 ---
 
